@@ -10,7 +10,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 
 # 导入数据
-data = pd.read_csv("D:\MachineLearning\pythonProject2\Salary_dataset.csv")
+data = pd.read_csv("D:/JetBrainsProjects/pycharm/pythonProject2/Salary_dataset.csv")
 
 # var = data.columns
 # print("表头：\n",var)
